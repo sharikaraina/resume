@@ -1,0 +1,131 @@
+a {
+  color: #DF7599;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+img {
+  background-color: #FBE2E5;
+}
+
+/*div{
+  background-color: #FBE2E5;
+}*/
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Fuggles', cursive;
+  color: #E5707E;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #E5707E;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #AC8DAF;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 5%;
+}
+.bottom-cloud {
+  position: absolute;
+}
+
+.books{
+  float: left;
+  margin-right: 30px;
+}
+
+.button {
+   background: #FBE2E5;
+   background-image: -webkit-linear-gradient(top, #FBE2E5, #FBE2E5);
+   background-image: -moz-linear-gradient(top, #FBE2E5, #FBE2E5);
+   background-image: -ms-linear-gradient(top, #FBE2E5, #FBE2E5);
+   background-image: -o-linear-gradient(top, #FBE2E5, #FBE2E5);
+   background-image: -webkit-gradient(to bottom, #FBE2E5, #FBE2E5);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 17px;
+   line-height: 17px;
+   color: #DF7599;
+   font-family: Open Sans;
+   width: 121px;
+   font-size: 16px;
+   font-weight: 200;
+   padding: 23px;
+   box-shadow-color: ;
+   box-shadow-horizontal: 0;
+   box-shadow-vertical: 0;
+   box-shadow-blur: 0;
+   box-shadow-spread: 0;
+   text-shadow: 0 0 0 #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 30px;
+   margin-top: 30px;
+}
+
+.circular{
+  border-radius: 50%;
+  height: 25%;
+  width: 25%;
+}
+
+.cooking{
+  float: left;
+  margin-right: 30px;
+}
+
+.guitar{
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #FBE2E5;
+}
+
+.bottom-container{
+  background-color: #FFEADB;
+  margin-bottom: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#profile{
+  height: 120px;
+  width:120px;
+  margin-top: 50px;
+}
